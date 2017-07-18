@@ -108,13 +108,13 @@ Se pide implementar los cambios necesarios para que visualmente se pueden ver lo
 	<link rel="stylesheet" href="">
 </head>
 <body>
-	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio recusandae culpa, repellat ex nobis, qui. Quidem id amet, cumque, porro, et nulla provident, quis eum sequi excepturi incidunt similique voluptatum!
-
-	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci officiis ipsum rem quos. Placeat, pariatur rerum velit iste aliquid blanditiis sunt nesciunt distinctio vel, iure dolorum possimus expedita in non!
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio recusandae culpa, repellat ex nobis, qui. Quidem id amet, cumque, porro, et nulla provident, quis eum sequi excepturi incidunt similique voluptatum!</p>
+	<br>
+ 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci officiis ipsum rem quos. Placeat, pariatur rerum velit iste aliquipuid blanditiis sunt nesciunt distinctio vel, iure dolorum possimus expedita in non! </p>
 </body>
 </html>
 ~~~
-
+		
 ##Ejercicio 7:
 
 Encontrar los errores en la siguiente página web y corregirlo, el texto que debe aparecer en pantalla es Párrafo 1
